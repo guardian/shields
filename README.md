@@ -1,2 +1,4 @@
 # shields
-config for guardian readme shields https://shields.io
+[Endpoints](https://shields.io/endpoint) for guardian readme shields.
+
+https://shields.io
