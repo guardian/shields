@@ -1,6 +1,6 @@
 # Shields
 
-[Endpoints](https://shields.io/endpoint) for guardian readme shields.
+Guardian [endpoints](https://shields.io/endpoint) for https://shields.io.
 
 ## Endpoints
 
@@ -12,4 +12,4 @@
 
 
 
-https://shields.io
+
